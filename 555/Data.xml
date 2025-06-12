@@ -1,0 +1,70 @@
+<Collection>
+<LabWork>
+  <id>1</id>
+  <name>hoo</name>
+  <coordinates>
+  <x>13</x>
+  <y>13.0</y>
+  </coordinates>
+  <creationDate>2025-06-12</creationDate>
+  <minimalPoint>13.0</minimalPoint>
+  <averagePoint>13</averagePoint>
+  <difficulty>EASY</difficulty>
+  <discipline>
+  <name>hoo</name>
+  <lectureHours>13</lectureHours>
+  </discipline>
+</LabWork>
+
+<LabWork>
+  <id>2</id>
+  <name>history</name>
+  <coordinates>
+  <x>123</x>
+  <y>124.0</y>
+  </coordinates>
+  <creationDate>2025-06-12</creationDate>
+  <minimalPoint>34.0</minimalPoint>
+  <averagePoint>17</averagePoint>
+  <difficulty>TERRIBLE</difficulty>
+  <discipline>
+  <name>projection</name>
+  <lectureHours>104</lectureHours>
+  </discipline>
+</LabWork>
+
+<LabWork>
+  <id>4</id>
+  <name>programming</name>
+  <coordinates>
+  <x>2324</x>
+  <y>566.0</y>
+  </coordinates>
+  <creationDate>2025-06-12</creationDate>
+  <minimalPoint>34.0</minimalPoint>
+  <averagePoint>45</averagePoint>
+  <difficulty>TERRIBLE</difficulty>
+  <discipline>
+  <name>java</name>
+  <lectureHours>150</lectureHours>
+  </discipline>
+</LabWork>
+
+<LabWork>
+  <id>3</id>
+  <name>math</name>
+  <coordinates>
+  <x>65</x>
+  <y>87.0</y>
+  </coordinates>
+  <creationDate>2025-06-12</creationDate>
+  <minimalPoint>987.0</minimalPoint>
+  <averagePoint>4</averagePoint>
+  <difficulty>INSANE</difficulty>
+  <discipline>
+  <name>algebra</name>
+  <lectureHours>102</lectureHours>
+  </discipline>
+</LabWork>
+
+</Collection>

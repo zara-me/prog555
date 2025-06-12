@@ -1,0 +1,18 @@
+help
+info
+
+execute_script script2.txt
+
+update 1
+Deep Learning 2
+102
+203
+15
+18
+INSANE
+y
+Deep Learning
+104
+
+show
+

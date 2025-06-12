@@ -1,0 +1,26 @@
+show
+
+add_if_max
+AI Advanced Lab
+200
+300.0
+20.5
+22
+INSANE
+y
+Advanced AI Theory
+120
+
+count_greater_than_difficulty EASY
+
+add
+AI Advanced Lab
+200
+300.0
+20.5
+22
+INSANE
+y
+Advanced AI Theory
+120
+
